@@ -43,6 +43,7 @@ header a {
     background-color: #AC886D;
     color: white;
     font-family: 'Titillium Web', sans-serif;
+    text-decoration: none;
 }
 
 #services {
